@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 Database Analysis
 
-#Analysis Overview
+# Analysis Overview
 Pewlett-Hackard is facing a massive loss of employees due to retirement. The pupose of this analysis is to discover how many employees will be retiring the possible impact to the workforce.
 
-### Point os of interest
+### Points of interest
 * Over 60,000 senior employees are eligible for mentorship. 
 * Need to replace appprox 90,000 employees in the near future.
 * Need an influx of youth to replace the work force and mentoring will be a focal point
